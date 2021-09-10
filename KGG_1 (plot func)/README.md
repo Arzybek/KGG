@@ -1,0 +1,1 @@
+* In a Cartesian rectangular coordinate system, draw a graph of the function y = f (x, a, b, c…), given on the segment [α, β]. To display the graph of the function, a rectangular area is specified.

@@ -1,0 +1,1 @@
+* Using the floating horizon method, draw surface z = f (x, y) on a given domain D.
